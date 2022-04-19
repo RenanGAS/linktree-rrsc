@@ -13,7 +13,7 @@ import {
     DropdownItem
 } from 'reactstrap';
 
-export default class Header extends React.Component {
+class Header extends React.Component {
     constructor(props) {
         super(props);
 
