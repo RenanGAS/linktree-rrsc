@@ -1,5 +1,4 @@
 .App{
-  background-color: #282c34;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -7,4 +6,13 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+
+.slider{
+  background-color: #4d7376;
+  transition: .3s;
+}
+
+.slider::before{
+  background-color: aquamarine;
 }
