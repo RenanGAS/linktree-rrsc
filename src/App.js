@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
-import '../scripts/switchThemeButton.js';
-import logo from '../assets/logo_rr.png';
+import './scripts/switchThemeButton.js';
+import logo from './assets/logo_rr.png';
 
 function App() {
   return (
