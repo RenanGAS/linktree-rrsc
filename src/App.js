@@ -5,16 +5,16 @@ import logo from './assets/logo_rr.png';
 
 function App() {
   return (
-    <div className="App">
+    <div class="App">
       <nav>
-        <div className="theme-switch-wrapper">
-          <label className="theme-switch" for="checkbox">
-            <input type="checkbox" id="checkbox" />
-            <div className="slider round"></div>
+        <div class="theme-switch-wrapper">
+          <label class="theme-switch" for="checkbox">
+            <input type="checkbox" id="checkbox"/>
+            <div class="slider round"></div>
           </label>
         </div>
       </nav>
-      <img className="logo" src={logo} alt="RR Smart Cast"/>
+      <img class="logo" src={logo} alt="RR Smart Cast"/>
     </div>
   );
 }
