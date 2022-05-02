@@ -11,6 +11,7 @@
 body {
   background-color: var(--bg-color);
   color: var(--font-color);
+  font-size: medium;
 }
 
 h1 {
@@ -27,7 +28,7 @@ a {
 :root {
   --primary-color: #302AE6;
   --secondary-color: #536390;
-  --font-color: #424242;
+  --font-color: #fff;
   --bg-color: #2ab1eb;
   --heading-color: #292922;
 }
@@ -79,7 +80,7 @@ a {
 }
 
 input:checked + .slider {
-  background-color: #66bb6a;
+  background-color: #000;
 }
 
 input:checked + .slider:before {
@@ -94,6 +95,14 @@ input:checked + .slider:before {
   border-radius: 50%;
 }
 
+.page-content{
+  width: 100%;
+  height: 85%;
+  position: absolute;
+  overflow: hidden;
+  padding-top: 25px;
+}
+
 
 /* Logo */
 
@@ -101,4 +110,13 @@ input:checked + .slider:before {
   width: 200px;
   height: 200px;
   border-radius: 50%;
+}
+
+.title{
+  font-weight: 300;
+  padding-top: 15px;
+}
+
+.subtitle{
+  font-weight: bold;
 }
