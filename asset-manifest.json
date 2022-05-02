@@ -1,16 +1,14 @@
 {
-  "main.css": "/linktree-rrsc/static/css/main.fe50124b.chunk.css",
-  "main.js": "/linktree-rrsc/static/js/main.e4845116.chunk.js",
-  "main.js.map": "/linktree-rrsc/static/js/main.e4845116.chunk.js.map",
-  "static/css/1.3216b096.chunk.css": "/linktree-rrsc/static/css/1.3216b096.chunk.css",
-  "static/js/1.46c2ad16.chunk.js": "/linktree-rrsc/static/js/1.46c2ad16.chunk.js",
-  "static/js/1.46c2ad16.chunk.js.map": "/linktree-rrsc/static/js/1.46c2ad16.chunk.js.map",
-  "runtime~main.js": "/linktree-rrsc/static/js/runtime~main.53ddb160.js",
-  "runtime~main.js.map": "/linktree-rrsc/static/js/runtime~main.53ddb160.js.map",
-  "static/media/logo_rr.png": "/linktree-rrsc/static/media/logo_rr.b85d3f45.png",
-  "static/css/main.fe50124b.chunk.css.map": "/linktree-rrsc/static/css/main.fe50124b.chunk.css.map",
-  "static/css/1.3216b096.chunk.css.map": "/linktree-rrsc/static/css/1.3216b096.chunk.css.map",
-  "index.html": "/linktree-rrsc/index.html",
-  "precache-manifest.cc61a0c1c4678533800defa50b84b4e9.js": "/linktree-rrsc/precache-manifest.cc61a0c1c4678533800defa50b84b4e9.js",
-  "service-worker.js": "/linktree-rrsc/service-worker.js"
+  "files": {
+    "main.css": "/linktree-rrsc/static/css/main.d0e5d738.css",
+    "main.js": "/linktree-rrsc/static/js/main.dd153959.js",
+    "static/media/logo_rr.png": "/linktree-rrsc/static/media/logo_rr.46478611b45c2b05efab.png",
+    "index.html": "/linktree-rrsc/index.html",
+    "main.d0e5d738.css.map": "/linktree-rrsc/static/css/main.d0e5d738.css.map",
+    "main.dd153959.js.map": "/linktree-rrsc/static/js/main.dd153959.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0e5d738.css",
+    "static/js/main.dd153959.js"
+  ]
 }
