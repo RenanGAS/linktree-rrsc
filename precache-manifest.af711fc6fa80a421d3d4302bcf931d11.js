@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "89ce2f022974068b6966",
-    "url": "/linktree-rrsc/static/css/main.14afa163.chunk.css"
+    "revision": "a8a4b193f0f61f214850",
+    "url": "/linktree-rrsc/static/css/main.ce7cd5df.chunk.css"
   },
   {
-    "revision": "89ce2f022974068b6966",
-    "url": "/linktree-rrsc/static/js/main.89ce2f02.chunk.js"
+    "revision": "a8a4b193f0f61f214850",
+    "url": "/linktree-rrsc/static/js/main.a8a4b193.chunk.js"
   },
   {
     "revision": "fe166103e3a315e88ed8",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/linktree-rrsc/static/media/logo_rr.b85d3f45.png"
   },
   {
-    "revision": "5345a399cb242eebbf392b4989276de0",
+    "revision": "52364bbec0ced71b136015145bd1e8d7",
     "url": "/linktree-rrsc/index.html"
   }
 ];
