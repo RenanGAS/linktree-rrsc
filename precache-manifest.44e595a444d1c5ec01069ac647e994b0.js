@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/linktree-rrsc/static/media/logo_rr.b85d3f45.png"
   },
   {
-    "revision": "cc5c26857fd1c00923ca40306aee6193",
+    "revision": "453e84d06bb701c1f9751730214c8a76",
     "url": "/linktree-rrsc/index.html"
   }
 ];
