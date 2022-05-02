@@ -23,6 +23,8 @@ function App() {
         <img class="logo" src={logo} alt="RR Smart Cast" />
       </Container>
 
+      <script src="./scripts/switchThemeButton.js"></script>
+
     </div>
   );
 }
