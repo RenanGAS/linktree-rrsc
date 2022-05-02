@@ -1,5 +1,5 @@
 import React from 'react';
-import { Container, Navbar, Button } from 'reactstrap';
+import { Container, Navbar, NavItem, Button } from 'reactstrap';
 import './App.css';
 import logo from './assets/logo_rr.png';
 import facebook from './assets/facebook.png';
@@ -8,15 +8,13 @@ function App() {
   return (
     <div className="App">
 
-      <Navbar className="justify-content-end" fixed="top" bg="light" expand="lg">
-        <Container>
-          <div className="theme-switch-wrapper">
-            <label className="theme-switch" for="checkbox">
-              <input type="checkbox" id="checkbox" />
-              <div className="slider round"></div>
-            </label>
-          </div>
-        </Container>
+      <Navbar className="container nav-conf" fixed="top" bg="light" expand="lg">
+        <NavItem>
+          <label className="theme-switch" for="checkbox">
+            <input type="checkbox" id="checkbox" />
+            <div className="slider round"></div>
+          </label>
+        </NavItem>
       </Navbar>
 
       <div className="page-content">
