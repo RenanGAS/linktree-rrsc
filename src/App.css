@@ -28,7 +28,7 @@ a {
   --primary-color: #302AE6;
   --secondary-color: #536390;
   --font-color: #424242;
-  --bg-color: #fff;
+  --bg-color: #2ab1eb;
   --heading-color: #292922;
 }
 
@@ -36,7 +36,7 @@ a {
   --primary-color: #9A97F3;
   --secondary-color: #818cab;
   --font-color: #e1e1ff;
-  --bg-color: #161625;
+  --bg-color: #4d7376;
   --heading-color: #818cab;
 }
 
@@ -98,7 +98,7 @@ input:checked + .slider:before {
 /* Logo */
 
 .logo{
-  width: 250px;
-  height: 250px;
+  width: 200px;
+  height: 200px;
   border-radius: 50%;
 }
