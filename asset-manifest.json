@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/linktree-rrsc/static/css/main.5204500c.css",
-    "main.js": "/linktree-rrsc/static/js/main.0f9beba2.js",
+    "main.css": "/linktree-rrsc/static/css/main.953beb7c.css",
+    "main.js": "/linktree-rrsc/static/js/main.a139b7f9.js",
     "static/media/logo_rr.png": "/linktree-rrsc/static/media/logo_rr.46478611b45c2b05efab.png",
     "index.html": "/linktree-rrsc/index.html",
-    "main.5204500c.css.map": "/linktree-rrsc/static/css/main.5204500c.css.map",
-    "main.0f9beba2.js.map": "/linktree-rrsc/static/js/main.0f9beba2.js.map"
+    "main.953beb7c.css.map": "/linktree-rrsc/static/css/main.953beb7c.css.map",
+    "main.a139b7f9.js.map": "/linktree-rrsc/static/js/main.a139b7f9.js.map"
   },
   "entrypoints": [
-    "static/css/main.5204500c.css",
-    "static/js/main.0f9beba2.js"
+    "static/css/main.953beb7c.css",
+    "static/js/main.a139b7f9.js"
   ]
 }
