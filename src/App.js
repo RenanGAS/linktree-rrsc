@@ -1,7 +1,8 @@
 import React from 'react';
-import { Container, Navbar } from 'reactstrap';
+import { Container, Navbar, Button } from 'reactstrap';
 import './App.css';
 import logo from './assets/logo_rr.png';
+import facebook from './assets/facebook.png';
 
 function App() {
   return (
@@ -22,6 +23,11 @@ function App() {
         <img className="logo" src={logo} alt="RR Smart Cast" />
         <h3 className="title">R&R SmartCast</h3>
         <p className="subtitle">Building the future through code</p>
+        <Button className="social-buttons"> <img src={facebook} className="img-fluid"/> </Button>{' '}
+        <Button className="social-buttons"> <img src={facebook} className="img-fluid"/> </Button>{' '}
+        <Button className="social-buttons"> <img src={facebook} className="img-fluid"/> </Button>{' '}
+        <Button className="social-buttons"> <img src={facebook} className="img-fluid"/> </Button>{' '}
+        <Button className="social-buttons"> <img src={facebook} className="img-fluid"/> </Button>
       </div>
 
     </div>
