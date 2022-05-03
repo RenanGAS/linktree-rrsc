@@ -1,22 +1,15 @@
 import React from 'react';
-import { Container, Navbar, NavItem, Button } from 'reactstrap';
+import { Button } from 'reactstrap';
 import './App.css';
 import logo from './assets/logo_rr.png';
-import facebook from './assets/facebook.png';
+import SwitchButton from './components/SwitchButton/SwitchButton.js';
 
 function App() {
   return (
     <div className="App">
 
-      <Navbar className="container nav-conf" fixed="top" bg="light" expand="lg">
-        <NavItem>
-          <label className="theme-switch" for="checkbox">
-            <input type="checkbox" id="checkbox" />
-            <div className="slider round"></div>
-          </label>
-        </NavItem>
-      </Navbar>
-
+      <SwitchButton />
+      
       <div className="page-content">
         <img className="logo" src={logo} alt="RR Smart Cast" />
         <h3 className="title">R&R SmartCast</h3>
