@@ -2,7 +2,7 @@
 
 /* Themes */
 :root {
-    --primary-color: #302AE6;
+    --primary-color: #3E6BAE;
     --secondary-color: #536390;
     --font-color: #fff;
     --bg-color: #2ab1eb;
@@ -10,7 +10,7 @@
   }
   
   [data-theme="dark"] {
-    --primary-color: #9A97F3;
+    --primary-color: #485260;
     --secondary-color: #818cab;
     --font-color: #e1e1ff;
     --bg-color: #4d7376;
