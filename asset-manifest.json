@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/linktree-rrsc/static/css/main.8b726f16.css",
+    "main.css": "/linktree-rrsc/static/css/main.aab76fcb.css",
     "main.js": "/linktree-rrsc/static/js/main.36e5a686.js",
     "static/media/logo_rr.png": "/linktree-rrsc/static/media/logo_rr.46478611b45c2b05efab.png",
     "static/media/github.png": "/linktree-rrsc/static/media/github.96997ac26ed9d67f9159.png",
@@ -8,11 +8,11 @@
     "static/media/twitter.png": "/linktree-rrsc/static/media/twitter.bff674687f6e1edbcbe5.png",
     "static/media/o-email.png": "/linktree-rrsc/static/media/o-email.833752054f4d7fbe7eb0.png",
     "index.html": "/linktree-rrsc/index.html",
-    "main.8b726f16.css.map": "/linktree-rrsc/static/css/main.8b726f16.css.map",
+    "main.aab76fcb.css.map": "/linktree-rrsc/static/css/main.aab76fcb.css.map",
     "main.36e5a686.js.map": "/linktree-rrsc/static/js/main.36e5a686.js.map"
   },
   "entrypoints": [
-    "static/css/main.8b726f16.css",
+    "static/css/main.aab76fcb.css",
     "static/js/main.36e5a686.js"
   ]
 }
