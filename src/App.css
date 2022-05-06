@@ -53,6 +53,7 @@ body {
 .group-buttons{
   display: inline-flex;
   flex-direction: row;
+  padding-top: 5px;
 }
 
 
@@ -114,6 +115,7 @@ body {
   line-height: 40px;
   height: 54px;
   margin-top: 1rem;
+  border: 0;
 }
 
 .web-button:hover{
@@ -122,4 +124,43 @@ body {
 
 .web-button:focus{
   background-color: var(--primary-color) !important;
+}
+
+
+/* Founders */
+
+.founders-topic{
+  padding-top: 45px;
+  font-size: 17px;
+  font-weight: 300;
+}
+
+.founders-buttons{
+  width: 40px;
+  height: 40px;
+  background: transparent;
+  border-radius: 50%;
+  border: 0;
+  margin-right: 25px;
+  margin-left: 20px;
+}
+
+.founders-buttons:hover{
+  background-color: transparent !important;
+}
+
+.founders-buttons:focus{
+  background-color: transparent !important;
+}
+
+.renan-button{
+  background-image: url("/src/assets/renan.jpg") !important;
+  background-size: cover !important;
+  background-position: center !important;
+}
+
+.rodolfo-button{
+  background-image: url("/src/assets/rodolfo.jpg") !important;
+  background-size: cover !important;
+  background-position: center !important;
 }

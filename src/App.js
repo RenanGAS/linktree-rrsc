@@ -26,6 +26,14 @@ function App() {
         </div>
 
         <Button className="web-button" href="https://rrsmartcast.com.br" target="_blank"> Go to the website </Button>
+
+        <h4 className="founders-topic">Founders</h4>
+
+        <div className="group-buttons">
+          <Button className="founders-buttons renan-button" href="mailto:renansakaoki@gmail.com" target="_blank"></Button>{' '}
+          <Button className="founders-buttons rodolfo-button" href="https://www.instagram.com/rodolfo_presa" target="_blank"></Button>{' '}
+        </div>
+
       </div>
 
     </div>
