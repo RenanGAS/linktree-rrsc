@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/linktree-rrsc/static/css/main.90b0d2a2.css",
-    "main.js": "/linktree-rrsc/static/js/main.e909cf34.js",
+    "main.css": "/linktree-rrsc/static/css/main.54fac64e.css",
+    "main.js": "/linktree-rrsc/static/js/main.ea938558.js",
     "static/media/logo_rr.png": "/linktree-rrsc/static/media/logo_rr.46478611b45c2b05efab.png",
     "static/media/rodolfo.jpg": "/linktree-rrsc/static/media/rodolfo.67376eb2d416c53ad83f.jpg",
     "static/media/renan.jpg": "/linktree-rrsc/static/media/renan.757f68aea286269bd9e6.jpg",
@@ -10,11 +10,11 @@
     "static/media/twitter.png": "/linktree-rrsc/static/media/twitter.bff674687f6e1edbcbe5.png",
     "static/media/o-email.png": "/linktree-rrsc/static/media/o-email.833752054f4d7fbe7eb0.png",
     "index.html": "/linktree-rrsc/index.html",
-    "main.90b0d2a2.css.map": "/linktree-rrsc/static/css/main.90b0d2a2.css.map",
-    "main.e909cf34.js.map": "/linktree-rrsc/static/js/main.e909cf34.js.map"
+    "main.54fac64e.css.map": "/linktree-rrsc/static/css/main.54fac64e.css.map",
+    "main.ea938558.js.map": "/linktree-rrsc/static/js/main.ea938558.js.map"
   },
   "entrypoints": [
-    "static/css/main.90b0d2a2.css",
-    "static/js/main.e909cf34.js"
+    "static/css/main.54fac64e.css",
+    "static/js/main.ea938558.js"
   ]
 }
